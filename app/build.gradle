@@ -1,5 +1,7 @@
 apply plugin: 'com.android.library'
 
+group = 'com.github.Developmc'
+
 android {
     compileSdkVersion 23
     buildToolsVersion "23.0.1"
