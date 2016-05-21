@@ -1,6 +1,6 @@
 apply plugin: 'com.android.library'
 
-group = 'com.github.Developmc'
+//group = 'com.github.Developmc'
 
 android {
     compileSdkVersion 23
